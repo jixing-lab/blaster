@@ -121,6 +121,9 @@
 - 其他类型验证码识别
 
 
+### 下载
+
+https://github.com/PoJun-Lab/blaster/releases
 
 ### 交流群加入
 
