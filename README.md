@@ -128,3 +128,7 @@ https://github.com/PoJun-Lab/blaster/releases
 ### 交流群加入
 
 <img src="images/image-20220208103133707.png" alt="image-20220208103133707" style="zoom: 33%;" />
+
+群满请扫描下方二维码邀请进入，备注blaster
+
+<img src="images/image-20220211111225264.png" alt="image-20220211111225264" style="zoom: 33%;" />
