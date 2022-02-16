@@ -189,6 +189,7 @@ proxy: '' # 代理
     - [+]增加before_login_js_expr参数，登录之前可执行的js表达式，支持checkbox_jspath表单勾选操作，该参数更加灵活
     - [+]增加body_exclude_regex参数，设置多个正则用来排除需要抛弃的请求响应包
     - [+]增加表单value去空填充
+    - [+]支持多次输入账号密码错误才出现验证码情况
 
 
 
